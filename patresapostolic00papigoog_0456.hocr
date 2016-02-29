@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patresapostolic00papigoog_0456.png"; bbox 0 0 1072 1587; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 277 1044 767 1175">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 277 1044 767 1151">
+     <span class='ocr_line' id='line_1_1' title="bbox 366 1044 767 1082; baseline 0.005 -10.185"><span class='ocrx_word' id='word_1_1' title='bbox 366 1055 533 1078; x_wconf 60' lang='grc' dir='ltr'><strong>-ᾱμιφ-ειπι]</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 549 1056 767 1082; x_wconf 56' lang='lat' dir='ltr'><strong>emmaum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 277 1079 766 1123; baseline 0.008 -28"><span class='ocrx_word' id='word_1_3' title='bbox 277 1079 360 1123; x_wconf 40' lang='lat'><strong>²22&amp;</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 369 1080 496 1101; x_wconf 53' lang='grc' dir='ltr'><strong>ιῘαΗμΠῖ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 506 1081 609 1102; x_wconf 60' lang='lat' dir='ltr'><strong>abu—nob</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 632 1080 743 1104; x_wconf 52' lang='lat' dir='ltr'><strong>law</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 763 1082 766 1086; x_wconf 87' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 278 1127 712 1151; baseline 0.005 -7"><span class='ocrx_word' id='word_1_8' title='bbox 278 1127 397 1149; x_wconf 63' lang='lat' dir='ltr'><em>—mama</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 413 1128 452 1148; x_wconf 69' lang='lat' dir='ltr'><strong>:em</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 471 1128 495 1145; x_wconf 72' lang='grc' dir='ltr'><strong>σε.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 510 1129 579 1148; x_wconf 63' lang='lat' dir='ltr'><strong>mm.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 589 1127 712 1151; x_wconf 60' lang='lat' dir='ltr'><strong>amn-8,</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 278 1151 714 1175">
+     <span class='ocr_line' id='line_1_4' title="bbox 278 1151 714 1175; baseline 0 -7"><span class='ocrx_word' id='word_1_13' title='bbox 278 1151 599 1173; x_wconf 52' lang='lat' dir='ltr'><strong>m—mmelml’mmm</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 611 1151 714 1187; x_wconf 38' lang='grc' dir='ltr'><strong>ὓίισῃι«</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 142 98 932 1484">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 142 98 932 1484">
+     <span class='ocr_line' id='line_1_5' title="bbox 142 98 932 1484; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 142 98 932 1484; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patresapostolic00papigoog_0555.png"; bbox 0 0 1072 1587; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 476 840 481 849">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 476 840 481 849">
+     <span class='ocr_line' id='line_1_1' title="bbox 476 840 481 849; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 476 840 481 849; x_wconf 64' lang='grc' dir='ltr'><strong>ε</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 379 840 658 932">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 379 840 658 932">
+     <span class='ocr_line' id='line_1_2' title="bbox 379 840 603 883; baseline -0.004 -6"><span class='ocrx_word' id='word_1_2' title='bbox 379 860 381 869; x_wconf 76' lang='lat'>³</span> <span class='ocrx_word' id='word_1_3' title='bbox 409 840 489 883; x_wconf 43' lang='lat' dir='ltr'>&amp;iz-:-</span> <span class='ocrx_word' id='word_1_4' title='bbox 546 851 603 882; x_wconf 41' lang='grc' dir='ltr'>,ἐπῆ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 384 877 658 932; baseline 0.113 -53"><span class='ocrx_word' id='word_1_5' title='bbox 384 877 387 879; x_wconf 70' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 407 880 436 913; x_wconf 23' lang='lat' dir='ltr'>:¹ae</span> <span class='ocrx_word' id='word_1_7' title='bbox 451 887 541 920; x_wconf 31' lang='lat' dir='ltr'>ahud,</span> <span class='ocrx_word' id='word_1_8' title='bbox 561 895 623 932; x_wconf 31' lang='grc' dir='ltr'>ξπ.)</span> <span class='ocrx_word' id='word_1_9' title='bbox 655 913 658 914; x_wconf 28' lang='lat'><em>⁷</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1072 1587">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1072 1587">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1072 1587; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1072 1587; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
